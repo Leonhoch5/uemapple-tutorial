@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Basic Blueprint Tutorials
+
+Welcome to the **Basic Blueprint Tutorials**! This project contains step-by-step guides to help you learn and master the fundamentals of blueprints in Unreal Engine.
 
 ## Getting Started
+> Follow the tutorial and have fun! 🎉  
+> Don't hesitate to experiment and explore as you learn.
 
-First, run the development server:
+## Tutorials Included
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Blueprint Basics:** Learn about nodes, variables, and simple logic.
+- **Actor Setup:** Create and configure actors using blueprints.
+- **Events & Functions:** Understand event-driven programming and custom functions.
+- **UI Integration:** Add simple user interfaces with blueprint widgets.
+- **Interactivity:** Make objects respond to player input and game events.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## How to Use
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To set up this Next.js project:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Install Node.js**  
+    Make sure you have [Node.js](https://nodejs.org/) installed.
+
+2.  **Install the project**  
+    Run the following command to clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/uemapple-tutorial.git
+    cd uemapple-tutorial
+    ```
+
+3. **Start the Development Server**  
+    Run:
+    ```bash
+    npm run dev
+    ```
+    Visit `http://localhost:3000` in your browser to see your app.
+
+
+
+For more details, see the [Next.js Documentation](https://nextjs.org/docs).
 
 ## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+For more information about Unreal Engine blueprints, check out:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Blueprint Visual Scripting Documentation](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/index.html)
+- [Unreal Engine Forums](https://forums.unrealengine.com/)
+- [Official Video Tutorials](https://www.youtube.com/user/UnrealDevelopmentKit)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Feel free to contribute or share feedback to improve these tutorials!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
