@@ -356,5 +356,7 @@ export default function Home() {
         </section>
       </div>
     </div>
+
   );
+
 }
