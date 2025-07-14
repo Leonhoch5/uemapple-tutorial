@@ -39,7 +39,7 @@ export default function Home() {
             <div className="bg-blue-100 dark:bg-blue-900 p-3 rounded-full mr-4">
               <FaLightbulb className="text-blue-600 dark:text-blue-300 text-xl" />
             </div>
-            <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-100">But what tha fuck are Blueprints</h2>
+            <h2 className="text-2xl font-semibold text-gray-800 dark:text-gray-100">But what are Blueprints actually</h2>
           </div>
           <p className="text-gray-600 dark:text-gray-300 mb-4">
             Blueprints Visual Scripting is Unreal Engine's node-based interface to create gameplay elements without writing code. It's perfect for designers, artists, and beginners who want to bring their ideas to life.
